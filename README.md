@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Risini</h1>
+<h1 align="center">Hi, I'm Risini</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
 
-- 🌱 I’m currently learning **Flutter, Java, C#, C++**
+- 🌱 I’m currently learning **Flutter, Java, React, C++**
 
 - 📫 How to reach me **aarruwanthie@gmail.com**
 <br>
