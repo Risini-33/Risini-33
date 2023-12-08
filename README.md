@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Risini Amarathunga and I'm a Software Engineering Undergraduate, from Colombo, SL.</h2>
+<h2 align="left">Welcome</h2>
 
 ###
 
