@@ -1,21 +1,19 @@
 
 <h2 align="center">Welcome Y'all !</h2>
+</br>
+<div align='center'>
+<img height="115" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
-###
 </br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Risini-33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Risini-33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
+
 </br>
-<center>
-<img height="115" src="https://i.imgflip.com/65efzo.gif"  />
-</center>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
   <img width="15" />
@@ -48,7 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"  />
 </div>
 
-###
 
 <div align="center">
   <a href="aarruwanthie@gmail.com" target="_blank">
@@ -71,4 +68,4 @@
   </a>
 </div>
 
-###
+
