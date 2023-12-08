@@ -1,3 +1,4 @@
+
 <h2 align="center">Welcome Y'all !</h2>
 
 ###
@@ -9,12 +10,13 @@
 
 ###
 </br>
-<img align="right" height="115" src="https://i.imgflip.com/65efzo.gif"  />
-
+<center>
+<img height="115" src="https://i.imgflip.com/65efzo.gif"  />
+</center>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo"  />
@@ -48,7 +50,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="aarruwanthie@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
