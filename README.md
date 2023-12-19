@@ -1,5 +1,5 @@
 
-<h2 align="center"> hi! </h2>
+<h2 align="center"> <hi> </h2>
 </br>
 <div align='center'>
   <img height="115" src="https://i.imgflip.com/65efzo.gif"  />
@@ -65,5 +65,6 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="hackerrank logo"  />
   </a>
 </div>
-
+<br>
+<h2 align="center"> </hi> </h2>
 
